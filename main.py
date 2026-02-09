@@ -138,4 +138,4 @@ test = 1000
 while test != 'a':
     test = int(test)
     test_prediction(test, W1, b1, W2, b2)
-    test = input("Which data point to test")
+    test = input("Which data point to test \n")

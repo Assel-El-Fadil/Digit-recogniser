@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08c28385-aba4-4ffb-a807-c4121cf821bb" name="Changes" comment="Init commit">
+    <list default="true" id="08c28385-aba4-4ffb-a807-c4121cf821bb" name="Changes" comment="Neural network model using stochastic gradient descent algorithm, reLu and softmax activation functions.">
+      <change afterPath="$PROJECT_DIR$/Screenshots/Training accuracy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/prediction example.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sample_submission.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/train.csv" afterDir="false" />
@@ -26,21 +28,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Assel-El-Fadil"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Assel-El-Fadil&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Assel-El-Fadil/Digit-recogniser.git",
-    "accountId": "b63e6698-b7c8-45a6-af16-ac9560fb6dd6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Assel-El-Fadil/Digit-recogniser.git&quot;,
+    &quot;accountId&quot;: &quot;b63e6698-b7c8-45a6-af16-ac9560fb6dd6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="39PBi82okXcjdISYgTg9PWECkg5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,15 +51,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,12 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1770590795870</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Neural network model using stochastic gradient descent algorithm, reLu and softmax activation functions.">
+      <option name="closed" value="true" />
+      <created>1770647633348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770647633348</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
+    <MESSAGE value="Neural network model using stochastic gradient descent algorithm, reLu and softmax activation functions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Neural network model using stochastic gradient descent algorithm, reLu and softmax activation functions." />
   </component>
 </project>

@@ -103,13 +103,13 @@ Training was performed on CPU only.
 
 The following screenshot shows the accuracy printed during training:
 
-![Training accuracy output](screenshots/Training_accuracy.png)
+![Training accuracy output](Screenshots/Training_accuracy.png)
 
 ### Example Predictions
 
 Below is an example of a handwritten digit from the test set along with the model’s predicted label:
 
-![Digit prediction example](screenshots/prediction_example.png)
+![Digit prediction example](Screenshots/prediction_example.png)
 
 ---
 
